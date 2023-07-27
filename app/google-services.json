@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970474037613",
+    "project_id": "video-calling-app-69898",
+    "storage_bucket": "video-calling-app-69898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970474037613:android:cdb478860b1ea028247a64",
+        "android_client_info": {
+          "package_name": "com.babulcodeapp.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970474037613-4nj08mhffbecggreb1ak7cbl21t2ic11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcsn9rSBN5Y4_2yXYwP4c9ze-BRhZ_xB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970474037613-4nj08mhffbecggreb1ak7cbl21t2ic11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
